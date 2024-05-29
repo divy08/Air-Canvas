@@ -1,7 +1,5 @@
 # Air Canvas
 
-![Air Canvas Logo](path_to_logo_image)
-
 ## ✨ Overview
 **Air Canvas** is a groundbreaking project that transforms your finger movements into digital art and text inputs. Imagine drawing or typing in the air and seeing your creations appear on screen in real-time! With the power of computer vision, Air Canvas brings a new dimension to creative expression and interaction.
 
