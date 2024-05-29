@@ -9,13 +9,11 @@ Onscreen Keyboard: Type effortlessly with just finger gestures.
 Touch-Free Interaction: Interact with your computer without touching any physical device.
 Real-Time Hand Tracking: Experience seamless and accurate hand and finger tracking.
 User-Friendly Interface: Dive into creativity with an intuitive and easy-to-use interface.
-
 🛠️ Technologies Used
 Python: Our primary language for its simplicity and powerful libraries.
 MediaPipe: Powers our hand tracking and gesture recognition.
 OpenCV: Handles image processing and canvas rendering.
 TensorFlow: Enhances gesture recognition with robust machine learning models.
-
 📂 Project Structure
 main.py: Entry point for the application.
 air_canvas/: Core functionality and modules.
@@ -23,12 +21,10 @@ hand_tracking.py: Hand tracking and gesture recognition.
 canvas.py: Virtual canvas drawing functionality.
 keyboard.py: Onscreen keyboard functionality.
 requirements.txt: Required Python libraries.
-
 🌱 Future Enhancements
 Expanded Gesture Library: Incorporate more complex gestures for added functionality.
 Multi-User Support: Enable simultaneous interaction from multiple users.
 AR/VR Integration: Expand to augmented and virtual reality for an immersive experience.
-
 🤝 Contributing
 We welcome contributions! Fork the repository and submit pull requests. For significant changes, open an issue to discuss what you would like to change.
 
@@ -36,7 +32,6 @@ We welcome contributions! Fork the repository and submit pull requests. For sign
 MediaPipe
 OpenCV
 TensorFlow
-
 📬 Contact
 Have questions or suggestions? Open an issue or reach out to us at [your email].
 
